@@ -1,0 +1,31 @@
+These are Version 2 of the Original Aurora Matrix Skins, 
+Reduced File Size without losing Quality of Images/Music. 
+
+Saved up to 40mb per skin going from Version 1 to Version 4. >=)
+
+Optional Tweaks you can do so the skins run a little Smoother:
+
+Disable Aurora Animation in the "View" Menu. (Looks better with it on tho.)
+
+Disable Auto Scan on both Title Updates & Manage Paths. (you dont need to AutoScan on every boot, only when you add a game or coverart.)
+
+(Doing this will free up some background process on Cold Boot.
+since the 360, Aurora, and the background Music will be fighting for the ram.)
+
+Custom Skin Known Bug:
+
+Lots of custom skins tend to crash/freeze Aurora on Cold boot. 
+this can happen if you push B on your controller, to go to the "View" menu as soon as Aurora Boots. 
+Even the Aurora Default skin can do this! Dont Panic. 
+
+To avoid this bug: 
+
+Just Restart the Xbox360, Wait about 30sec for Aurora to Boot into the main menu (the screen that shows your games), 
+you'll know when its done loading when your Hidden games Disappear Or if your using a Cover layout other than the default (Example: Bookshelf) loads in.
+Aurora just need a few secs on cold boots to load, cause on a cold boot from a completely shutdown console Aurora boots into default settings THEN loads your settings. 
+Takes about 30secs.
+
+So to Recap: 
+Turn on Xbox360 
+Dont push the B button on your Controller on Cold Boot for 30secs 
+Wait for Aurora to load. Easy right?
